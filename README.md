@@ -1,4 +1,4 @@
-# -GitWorkshop
+# GitWorkshop
 
 To complete this assignment, edit this README by doing the following, 
 
