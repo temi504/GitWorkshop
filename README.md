@@ -9,4 +9,7 @@ To complete this assignment, edit this README by doing the following,
 Once your are done, save this file.
 
 Test
-sslkadfj;adfjalkdfjaskdjfasdlkfjaslkdfjasdfj;alksd
+This is a test.
+Coding is a good thing 
+I think I dont know. 
+I like this class though
